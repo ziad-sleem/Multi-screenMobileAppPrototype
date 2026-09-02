@@ -1,0 +1,10 @@
+{
+  "description": "This mobile app offers a seamless user experience for managing personal profiles, tracking activities, and accessing essential features with a modern design.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
